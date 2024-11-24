@@ -1,5 +1,5 @@
 from kivy.uix.screenmanager import Screen
 
 
-class HallOfFame(Screen):
+class MenuScreen(Screen):
     pass
